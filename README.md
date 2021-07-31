@@ -9,3 +9,5 @@ This generic-logger could be a solution to above problem.
 - Create your own project library which could have few functions to log Debug, Information, Warning or Error or few others could be there like FatalError or CriticalError.
 - Now give reference of that project in all other your 10 projects and use functions of your own library in all 100s of classes to log.
 - In this case if you need to change 3rd party library in any case then you will have to change into your own generic-logger.
+
+This is a very basic generic-logger library with a tester project.
