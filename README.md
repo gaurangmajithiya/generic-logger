@@ -1,4 +1,4 @@
-# generic-logger (Generic Logger for .Net Core projects)
+# Generic Logger for .Net Core projects
 
 Guess that you have a big system and you have implemented logging using a 3rd party library like nLog. You have implemented logging at everywhere in your system in almost 10 project libraries and 100s of classes. Now for any specific reason you must need to change from nLog to Serilog or log4net or Microsoft Logging, you will have to change code in 100s of classes and references in all project libraries, which could be a very tedious job.
 
